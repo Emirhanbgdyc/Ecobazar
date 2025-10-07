@@ -1,0 +1,10 @@
+.home__wrapper{
+    max-width: 1920px;
+    width: 100%;
+}
+
+.home__wrapper .home__container{
+    max-width: 1320px;
+    width: 100%;
+    margin: auto;
+}
