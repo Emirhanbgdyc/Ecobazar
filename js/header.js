@@ -22,6 +22,8 @@
     
   });   
 
+
+  
   //? Navbar Renk Degistirme
 
 const navItem = document.querySelectorAll('.nav-item a');
